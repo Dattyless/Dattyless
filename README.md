@@ -15,7 +15,7 @@ Me interesa el desarrollo web, cómo la inteligencia artificial está cambiando 
 ## 📂 Proyectos
 
 - **[Minigram](----)**: aplicación web que simula Instagram, donde se pueden publicar fotos y comentarlas. Hecha con Angular, TypeScript, JavaScript y Docker.
-- **[Tienda online en Java Swing](----)**: aplicación de escritorio al estilo Amazon con perfil de cliente y de administrador.
+- **[Tienda online en Java Swing](https://github.com/Dattyless/amazon)**: aplicación de escritorio al estilo Amazon con perfil de cliente y de administrador.
 
 ## 💼 Experiencia
 
