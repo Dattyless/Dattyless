@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Izan Devesa
 
-<!--
-**Dattyless/Dattyless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en Mallorca, con base en Sistemas Microinformáticos y Redes (SMR).
 
-Here are some ideas to get you started:
+Me interesa el desarrollo web, cómo la inteligencia artificial está cambiando la forma de programar, y seguir aprendiendo con cada proyecto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías con las que trabajo
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, Ionic
+- **Backend y datos:** Java, SQL
+- **Escritorio:** Java Swing
+- **CMS:** WordPress
+- **Herramientas:** Git, GitHub, Docker
+
+## 📂 Proyectos
+
+- **[Minigram](----)**: aplicación web que simula Instagram, donde se pueden publicar fotos y comentarlas. Hecha con Angular, TypeScript, JavaScript y Docker.
+- **[Tienda online en Java Swing](----)**: aplicación de escritorio al estilo Amazon con perfil de cliente y de administrador.
+
+## 💼 Experiencia
+
+Prácticas como diseñador web en una agencia de comunicación, adaptando y actualizando páginas web en WordPress.
+
+## 📫 Contacto
+
+- Email: izanovic6@gmail.com
